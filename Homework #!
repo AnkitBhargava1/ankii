@@ -1,0 +1,62 @@
+<!DOCTYPE html> <!-- #It tells to the browser the document type is Html -->
+<html>
+<head>          <!-- #Head consist of that part of our code which is not show on the browser like css,javaScript etc -->    
+  <meta charset="utf-8">  <!-- #meta character set means the number of alphabet,sign,Special symbol,numbers etc are present in the utf-8 for conversion.--> 
+  <meta name="viewport" content="width=device-width">  <!-- #viewport means the content which we are show on the browser having capability of mobile compatible.-->
+  <title>JS Bin</title><!-- #title means our web page title-->
+</head>
+<body>  <!-- body means the content which we want to show on the browser,we write all content in body-->
+  <h3>Daal Bati is a indian food which i really like alot and i can eat anytime.</h3>
+  <h2>Ingredient of Daal Bati</h2>
+  <ul>  <!-- #this list is show the bullet points i.e data in unordered list  -->
+    <li>1 cup <strong>wheat flour</strong></li>
+    <li>1/4 cup <strong>chana dal</strong></li>
+    <li>1/4 teaspoon <strong>garam masala powder</strong></li>
+    <li>1/8 teaspoon <strong>turmeric</strong></li>
+    <li>1/2 tablespoon <strong>lemon juice</strong></li>
+    <li>1/2 tablespoon <strong>coriander leaves</strong></li>
+    <li>1/4 teaspoon <strong>cumin seeds</strong></li>
+    <li>2 cup <strong>water</strong></li>
+    <li>1 tablespoon <strong>urad dal</strong></li>
+    <li>1/4 cup <strong>green moong dal</strong></li>
+    <li>1/2 tablespoon <strong>ghee</strong></li>
+    <li>1/2 teaspoon <strong>red chilli powder</strong></li>
+    <li>1/4 teaspoon <strong>coriander powder</strong></li>
+    <li>2 pinches <strong>salt</strong></li>
+    <li>1/4 inch <strong>ginger</strong></li>
+    <li>1/4 teaspoon <strong>mustard seeds</strong></li>
+    <li>1/4 cup <strong>toor daal</strong></li>
+  </ul>
+  <h2>How to make Daal Bati</h2>
+  <ol>  <!-- #this list shows the data in ordered list -->
+    <li>
+      <Strong>Step 1:</Strong>To prepare the baatis, take a glass bowl and add wheat 
+        flour with rawa, salt and ghee. Using your hands, knead a very stiff dough with 
+        warm water.Shape the dough in the size of a ping pong ball. Meanwhile, heat a 
+        gas tandoor and roast the dough balls on low heat for sometime. Make sure they 
+        are brown and crusty.
+    </li> 
+    <br>
+    <li>
+      <Strong>Step 2:</Strong>Then, break open from the top and pour some fresh ghee on the 
+      halves.Then to prepare the daal, wash all the dals together add 1 cup water and a pinch 
+      of turmeric. Pressure cook the dals till 2 whistles.Allow the cooker to cool and 
+      remove the dal.
+    </li>
+    <br>
+    <li>
+      <Strong>Step 3:</Strong>Mix all the spice powders in 1/2 cup water to make thin paste.
+      Put ghee in a pan over medium flame, add the cumin and coriander seeds. Once they 
+      splutter, add ginger. Then add the paste of spice powders and fry for a minute, 
+      add the cooked dal.
+    </li>
+    <br>
+    <li>
+      <Strong>Step 4:</Strong>Then add the remaining water and stir well. Bring it to a boil. 
+      To get that extra zing, add lemon juice in it, check and add salt if required. 
+      Garnish with chopped coriander. Serve hot with freshly prepared baatis and serve it 
+      hot with daal.
+    </li> 
+  </ol> 
+</body>
+</html>
