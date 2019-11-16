@@ -1,0 +1,66 @@
+<!DOCTYPE html> <!-- #It tells to the browser the document type is Html -->
+<html>
+<head>          <!-- #Head consist of that part of our code which is not show on the browser like css,javaScript etc -->    
+  <meta charset="utf-8">  <!-- #meta character set means the number of alphabet,sign,Special symbol,numbers etc are present in the utf-8 for conversion.--> 
+  <meta name="viewport" content="width=device-width">  <!-- #viewport means the content which we are show on the browser having capability of mobile compatible.-->
+  <title>Dal Bati</title><!-- #title means our web page title-->
+</head>
+<body>  <!-- body means the content which we want to show on the browser,we write all content in body-->
+  <h1>Dal Bati</h1>
+  <h2><strong>Introduction</strong></h2>
+  <h3><em>Daal Bati is a indian food which i really like alot and it's very delicious basically it is a rajasthan famous dish and it can be served by different-different manner. </em></h3>
+  <h2>Ingredient of Daal Bati</h2>
+  <ul>  <!-- #this list is show the bullet points i.e data in unordered list  -->
+    <li><em>1 cup <strong>wheat flour</strong></em></li>
+    <li><em>1/4 cup <strong>chana dal</strong></em></li>
+    <li><em>1/4 teaspoon <strong>garam masala powder</strong></em></li>
+    <li><em>1/8 teaspoon <strong>turmeric</strong></em></li>
+    <li><em>1/2 tablespoon <strong>lemon juice</strong></em></li>
+    <li><em>1/2 tablespoon <strong>coriander leaves</strong></em></li>
+    <li><em>1/4 teaspoon <strong>cumin seeds</strong></em></li>
+    <li><em>2 cup <strong>water</strong></em></li>
+    <li><em>1 tablespoon <strong>urad dal</strong></em></li>
+    <li><em>1/4 cup <strong>green moong dal</strong></em></li>
+    <li><em>1/2 tablespoon <strong>ghee</strong></em></li>
+    <li><em>1/2 teaspoon <strong>red chilli powder</strong></em></li>
+    <li><em>1/4 teaspoon <strong>coriander powder</strong></em></li>
+    <li><em>2 pinches <strong>salt</strong></em></li>
+    <li><em>1/4 inch <strong>ginger</strong></em></li>
+    <li><em>1/4 teaspoon <strong>mustard seeds</strong></em></li>
+    <li><em>1/4 cup <strong>toor daal</strong></em></li>
+  </ul>
+  <h2>How to make Daal Bati</h2>
+  <ol>  <!-- #this list shows the data in ordered list -->
+    <li>
+      <Strong>Step 1:</Strong><em>To prepare the baatis, take a glass bowl and add wheat 
+        flour with rawa, salt and ghee. Using your hands, knead a very stiff dough with 
+        warm water.Shape the dough in the size of a ping pong ball. Meanwhile, heat a 
+        gas tandoor and roast the dough balls on low heat for sometime. Make sure they 
+        are brown and crusty.</em><br><img src="https://cdn.pixabay.com/photo/2016/08/21/19/27/emoticon-1610573_960_720.png" alt="he seems to be happy" height="112" width="169">
+    </li> 
+    <br>
+    <li>
+      <Strong>Step 2:</Strong><em>Then, break open from the top and pour some fresh ghee on the 
+      halves.Then to prepare the daal, wash all the dals together add 1 cup water and a pinch 
+      of turmeric. Pressure cook the dals till 2 whistles.Allow the cooker to cool and 
+      remove the dal.</em><br><img src="https://www.emojirequest.com/images/WaitEmoji.jpg" alt="" width="169" height="112">
+    </li>
+    <br>
+    <li>
+      <Strong>Step 3:</Strong><em>Mix all the spice powders in 1/2 cup water to make thin paste.
+      Put ghee in a pan over medium flame, add the cumin and coriander seeds. Once they 
+      splutter, add ginger. Then add the paste of spice powders and fry for a minute, 
+      add the cooked dal.</em><br><img src="https://i.pinimg.com/originals/25/95/68/2595681662d9dea811f8e149c62919b9.png" alt="" width="169" height="112">
+    </li>
+    <br>
+    <li>
+      <Strong>Step 4:</Strong><em>Then add the remaining water and stir well. Bring it to a boil. 
+      To get that extra zing, add lemon juice in it, check and add salt if required. 
+      Garnish with chopped coriander. Serve hot with freshly prepared baatis and serve it 
+      hot with daal.</em><br><img src="https://i.pinimg.com/564x/b8/40/70/b8407089e5462df46d8bdfc80c7deee5.jpg" alt="" width="169" height="112">
+    </li> 
+  </ol>
+  <h3><em>Finally, Daal Bati get ready and it's smell very nice and looks it's very tasty and it's ready to serve with well manner:)</em></h3>
+  <p><img src="https://vaya.in/recipes/wp-content/uploads/2018/04/dal-bati-churma.jpg" alt="" width="800" height="533"></p>
+</body>
+</html>
